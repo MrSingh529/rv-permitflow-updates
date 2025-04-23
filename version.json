@@ -1,3 +1,8 @@
 {
-  "version": "1.0.0"
+  "version": "2.0.0",
+  "notes": [
+    "✨ New “Remember Me” login option",
+    "🐛 Fixed crash when uploading large images",
+    "🏎️ Performance improvements on form history loading"
+  ]
 }
